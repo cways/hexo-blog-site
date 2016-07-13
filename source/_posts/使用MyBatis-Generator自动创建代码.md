@@ -1,6 +1,8 @@
 ---
 title: 使用MyBatis Generator自动创建代码
 date: 2016-07-13 23:03:10
+categories:
+- Mybatis
 tags: 
 - JAVA
 - MyBatis
