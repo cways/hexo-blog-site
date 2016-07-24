@@ -19,6 +19,8 @@ mysql-connector-java-*.jar
 
 ```
 
+<!--more-->
+
 其中有mybatis框架的jar包，数据库驱动程序jar包和mybatis生成器jar包。其中的generatorConfig.xml是需要配置的文件，配置如下：
 
 ```
